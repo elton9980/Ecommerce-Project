@@ -8,3 +8,4 @@ spark = (SparkSession.builder
 
 
 
+spark.sql("CREATE DATABASE IF NOT EXISTS bronze")
